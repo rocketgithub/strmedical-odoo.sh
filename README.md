@@ -1,0 +1,1 @@
+# strmedical-odoo.sh
