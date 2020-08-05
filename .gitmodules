@@ -9,3 +9,11 @@
 	path = fel_ecofactura
 	url = git@github.com:rocketgithub/fel_ecofactura.git
 	branch = 11.0
+[submodule "pos_gt"]
+	path = pos_gt
+	url = git@github.com:rocketgithub/pos_gt.git
+	branch = 11.0
+[submodule "pos_gface"]
+	path = pos_gface
+	url = git@github.com:rocketgithub/pos_gface.git
+	branch = 11.0_fel
